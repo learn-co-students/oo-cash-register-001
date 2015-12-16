@@ -31,3 +31,4 @@ class CashRegister
         self.items = @items[0,@items.length-1]
     end
 end
+ 
